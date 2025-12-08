@@ -4,4 +4,6 @@ Each script thematically deals with different aspects of the pipeline from the A
 
 A description of the analysis can be found in the associated publication: Regional Lassa virus lineages select for divergent MHC-I repertoires in _Mastomys natalensis_ Rodents (in review) Olayemi et al. 
 
-The repository induces the nucleotide and amino acid MHC sequences 
+The repository induces the nucleotide and amino acid (SI Appendix) MHC sequences 
+
+Please get in touch if you have questions AYODEJI OLAYEMI <aolayemi@oauife.edu.ng> or DOMINIK MELVILLE <dominikwerner.schmid@uni-ulm.de>
